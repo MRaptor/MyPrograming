@@ -1,0 +1,24 @@
+{
+  "name": "webprograming",
+  "version": "1.0.0",
+  "description": "HTML,CSS & JAVASCRIPTS",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRaptor/MyPrograming.git"
+  },
+  "author": "Milton Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRaptor/MyPrograming/issues"
+  },
+  "homepage": "https://github.com/MRaptor/MyPrograming#readme",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
